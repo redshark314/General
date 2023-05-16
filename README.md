@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nakul4
 - 👀 I’m interested in blockchain, internet security, self-hosting
 - 🌱 I’m currently learning deep learning, smart contract development and algorithmic trading
-- 💞️ I’m looking to collaborate on smart contracts
+- 💞️ I’m looking to collaborate on security projects, smart contracts
 - 📫 How to reach me ...
 
 <!---
